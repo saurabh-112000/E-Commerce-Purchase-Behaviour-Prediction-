@@ -73,11 +73,7 @@ The best-performing models were deployed leveraging AWS EC2.
 
 ### Prediction pipeline execution:
 
-![Testing Data Points](Testing data points.png)
-
-![Prediction Input](Testing data points.png)
-
-![Prediction Output]([Testing data points.png](https://github.com/saurabh-112000/E-Commerce-Purchase-Behaviour-Prediction-/blob/b77c1593a7524a8d1ae64f4259bed6c7634c09b5/Prediction%20Output.png))
+Output attached above as images
 
 **Contributors**:
 
